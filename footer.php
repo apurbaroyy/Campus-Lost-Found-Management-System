@@ -1,0 +1,1 @@
+</div><footer>Campus Lost & Found Management System</footer></body></html>
