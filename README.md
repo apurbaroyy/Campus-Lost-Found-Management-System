@@ -86,7 +86,9 @@ Campus_Lost_Found_Project/
 ├── header.php
 ├── footer.php
 └── lost_found_db.sql
-Installation and Setup
+
+
+###Installation and Setup
 Install XAMPP.
 Start Apache and MySQL from XAMPP Control Panel.
 Copy the project folder into:
